@@ -373,7 +373,7 @@ The following limitations should be considered when interpreting the results:
 Retail-Sales-Customer-Performance-Analytics/
 │
 ├── data/
-│   └── README.md
+│   └── raw_data
 │
 ├── sql/
 │   ├── 01_database_setup.sql
